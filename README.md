@@ -10,7 +10,7 @@ Hi, I'm a BSc in Computer Science student with 10+ years of sales experience. I'
 
 ### Project Highlights
 
-Here's a brief overview of my projects. I haven't posted projects that I completed for work due to confidentiality. My most significant work project is the development of a dynamic e-commerce website which I built with: JavaScript, TypeScript, SQL, PHP, REST APIs, React, HTML, and CSS. This project features secure payment gateways, ensuring a seamless shopping experience.
+Here's a brief overview of my projects. I haven't posted projects that I completed for work due to confidentiality. My most significant work project is the development of **a dynamic e-commerce website** which I built with: JavaScript, TypeScript, SQL, PHP, REST APIs, React, HTML, and CSS. This project features secure payment gateways, ensuring a seamless shopping experience.
 
 My projects from repositories are:
 
